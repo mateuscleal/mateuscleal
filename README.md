@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, sou Mateus Leal👋
 
-<!--
-**mateuscleal/mateuscleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack | HTML | CSS | JS | Flutter | Dart | Sempre aprendendo!
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Atualmente trabalhando como desenvolvedor Flutter.
+- 🎓 Estudante de Ciência da Computação com ênfase em Full Stack Dev.
+- 🌱 Aprendendo mais sobre desenvolvimento de aplicativos móveis, web e novas tecnologias.
+- 📫 Você pode me encontrar em: [mateus.c.leal@outlook.com](mailto:mateus.c.leal@outlook.com)
+
+## 🛠️ Tecnologias e ferramentas
+
+- 🔧 Flutter & Dart
+- 🌐 APIs RESTful, Firebase, MySQL
+- ⚡ Git, GitHub
+- 🎨 Design responsivo
+
+## 📚 Alguns projetos
+
+- [TCR Rotas](https://play.google.com/store/apps/details?id=br.com.tcrapps.xrotas&hl=pt_BR)
+- [TCR - Gerenciador de Rotas](https://play.google.com/store/apps/details?id=br.com.tcrsoftware.gerenciadorderotas&hl=pt_BR)
+- [Site - Insede Out](https://insede-out-two.netlify.app/)
+
+## 📞 Vamos conversar!
+
+- [LinkedIn](https://www.linkedin.com/in/mateusc-leal/)
