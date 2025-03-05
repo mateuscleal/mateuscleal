@@ -11,7 +11,7 @@ Desenvolvedor Full Stack | HTML | CSS | JS | Flutter | Dart | Sempre aprendendo!
 
 ## 🛠️ Tecnologias e ferramentas
 
-- 🔧 Flutter & Dart
+- 🔧 HTML, CSS, JS, Flutter & Dart
 - 🌐 APIs RESTful, Firebase, MySQL
 - ⚡ Git, GitHub
 - 🎨 Design responsivo
