@@ -40,4 +40,4 @@
 ---
 
 ## 📞 Vamos conversar!  
-🔗 [LinkedIn](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/mateusc-leal/)
