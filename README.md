@@ -33,9 +33,9 @@
 
 ## 📚 Projetos em destaque
 
-- **TCR Rotas**
-- **TCR - Gerenciador de Rotas**  
-- **Inside Out - Site**
+- **[TCR Rotas](https://play.google.com/store/apps/details?id=br.com.tcrapps.xrotas)**
+- **[TCR - Gerenciador de Rotas](https://play.google.com/store/apps/details?id=br.com.tcrsoftware.gerenciadorderotas)**  
+- **[Inside Out - Site](https://inside-out-mk.netlify.app)**
 
 ---
 
